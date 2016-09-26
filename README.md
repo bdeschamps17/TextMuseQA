@@ -1,2 +1,2 @@
-# TextMuseQA1
+# TextMuseQA
 Group QA for TextMuse
